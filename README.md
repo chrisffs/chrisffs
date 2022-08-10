@@ -8,6 +8,9 @@ I'm a 2nd-year college student currently taking Bachelor of Science in Computer 
 - 📫 How to reach me: christiannoelsalvador24@gmail.com 
 - ⚡ Fun fact: I am Dumb -_- 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisffs)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/christiannoelsalvador)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/slvdrchan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chan-liard.vercel.app/#home)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisffs&&show_icons=true&title_color=00cccc&icon_color=00cccc&text_color=daf7dc&bg_color=252422)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chrisffs)  
 
