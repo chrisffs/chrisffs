@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Christian Salvador
 
-<!--
-**chrisffs/chrisffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year college student currently taking Bachelor of Science in Computer Engineering at Technological University of the Philippines - Visayas. Taught myself basic Front-End Development and hopefully, soon, will become a Full-stack Developer. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on My Portfolio Website XD 
+- 🌱 I’m currently learning Javascript DOM 
+- 🤔 I’m looking for help with Backend Development :< 
+- 📫 How to reach me: christiannoelsalvador24@gmail.com 
+- ⚡ Fun fact: I am Dumb -_- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/christiannoelsalvador)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/slvdrchan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chan-liard.vercel.app/#home)  
+
