@@ -12,5 +12,5 @@ I'm a 2nd-year college student currently taking Bachelor of Science in Computer 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisffs&&show_icons=true&title_color=00cccc&icon_color=00cccc&text_color=daf7dc&bg_color=252422)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chrisffs)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chrisffs&&show_icons=true&title_color=00cccc&icon_color=00cccc&text_color=daf7dc&bg_color=252422)  
 
