@@ -5,7 +5,7 @@ I'm a 2nd-year college student currently taking Bachelor of Science in Computer 
 
 - 🔭 I’m currently working on My Portfolio Website XD 
 - 🌱 I’m currently learning Javascript DOM 
-- 🤔 I’m looking for help with Backend Development :< 
+- 🤔 I’m looking for help on learning Backend Development :< 
 - 📫 How to reach me: christiannoelsalvador24@gmail.com 
 - ⚡ Fun fact: I am Dumb -_- 
 
